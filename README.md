@@ -2,6 +2,8 @@
 
 ![Skyrim SKSE Bridge Plugin Preview](skse-plugin.png)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rohitdev)
+
 SKSE Bridge Plugin to use DLSS, FSR3, FSR2, and XeSS3 in Skyrim. Also supports FSR3 Frame Generation to improve upscale quality for the main mod.
 
 This mod acts as the bridge between the Skyrim game engine and the **GamePlug Skyrim Mod**. Designed specifically for SKSE users, it runs as an SKSE plugin to extract direct engine data (such as depth and motion vectors) and pass them to the main upscaler mod while the game is running, enhancing the reconstruction quality.
